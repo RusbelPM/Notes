@@ -1,0 +1,10 @@
+
+
+.link{
+    color: $altert;
+    text-decoration: none;
+
+    &:hover{
+        text-decoration: underline;
+    }
+}
